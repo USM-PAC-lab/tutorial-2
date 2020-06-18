@@ -5,7 +5,7 @@ This week you'll be needing to install and use Git LFS and Unity version 2018.2.
 Download this: https://git-lfs.github.com/
 
 Please read this for help and an explaination: https://www.atlassian.com/git/tutorials/git-lfs
-Watch these: https://www.youtube.com/watch?v=9gaTargV5BY
+Watch this: https://www.youtube.com/watch?v=9gaTargV5BY
 
 
 Git LFS will be essential to working with Unity and Git. Essentially, in order to speed things up, git will remove certain small files it deems "unnecessary." For Unity, this means removing textures and other things that are annoying to reapply.
