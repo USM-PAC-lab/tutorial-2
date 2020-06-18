@@ -11,7 +11,11 @@ And please watch this: https://www.youtube.com/watch?v=9gaTargV5BY
 Git LFS will be essential to working with Unity and Git. Essentially, in order to speed things up, git will remove certain small files it deems "unnecessary." For Unity, this means removing textures and other things that are annoying to reapply.
 Git LFS, instead of ignoring these files, will upload everything. This means textures and other small things will be fine. 
 
-Please clone this repository. 
+Please clone this repository. Then create a branch.
 
 All I want you to do is create a project in Unity named testing-<yourlastnamehere> in the repositiory folder. 
 Then, after it is made and saved, please commit, add, and push said project using git LFS. THIS WILL TAKE A LONG TIME! BE PATIENT! 
+
+Then after that, please merge your branch onto the master branch!
+
+Good luck!
